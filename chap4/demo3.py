@@ -5,6 +5,8 @@ print('张三' in scores)
 print('张' not in scores)
 del scores['张三']
 print(scores)
+print(scores.pop('王五'))
+print(scores)
 scores['lll'] = 67
 print(scores)
 scores['lll'] = 100
