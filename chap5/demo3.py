@@ -8,3 +8,10 @@ b = s.lower()
 print(b, id(b))
 c = b.lower()
 print(c, id(c))
+
+s2 = 'Hello World!'
+print(s2.swapcase())
+
+s3 = 'pcnD DfGY dFds'
+print(s3.capitalize())
+print(s3.title())
