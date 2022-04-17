@@ -11,3 +11,9 @@ print(scores2)
 scores3 = dict(张三=100, 李四=60, 王五=20)
 print(id(scores3), type(scores3))
 print(scores3)
+
+scores4 = dict()
+print(id(scores4), type(scores4))
+print(scores4)
+
+score5 = {}
