@@ -4,3 +4,4 @@ name = '张三'
 age = 20
 print('%s,%d'% (name, age))
 print('{0},{1}'.format(name,age))
+print(f'{name},{age}')
