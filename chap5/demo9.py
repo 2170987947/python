@@ -4,5 +4,6 @@ s = 'hello, world'
 print(s[:5])
 print(s[5:])
 print(s[3:6])
+print(s[1:5:2])
 s2 = 'Python'
 print(s + s2)
