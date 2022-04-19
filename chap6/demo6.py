@@ -7,3 +7,12 @@ def fun(a, b, *, c, d):
     print('d=', d)
 
 fun(111, 222, c=333, d=444)
+
+def fun1(a, *, b, **args):
+    pass
+def fun2(a,  b, *args, **kwargs):
+    print(a)
+    print(args)
+    print(b)
+    print(kwargs)
+fun2(1, 2, 3, 4, m=5, n=6)
