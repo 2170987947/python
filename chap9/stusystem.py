@@ -27,11 +27,8 @@ def main():
                 total()
             elif choice == 7:
                 show()
-
-
 def insert():
     pass
-
 
 def search():
     pass
