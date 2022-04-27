@@ -33,18 +33,14 @@ def insert():
 def search():
     pass
 
-
 def delete():
     pass
-
 
 def modify():
     pass
 
-
 def sort():
     pass
-
 
 def total():
     pass
