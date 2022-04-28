@@ -45,10 +45,8 @@ def sort():
 def total():
     pass
 
-
 def show():
     pass
-
 
 def menu():
     print('=======================学生信息管理系统=======================')
